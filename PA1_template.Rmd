@@ -8,7 +8,7 @@ output:
 
 ## Loading and preprocessing the data
 
-We begin loadind the data to R.
+We begin loading the data to R.
 ```{r}
 Activity<-read.csv("activity.csv")
 ```
